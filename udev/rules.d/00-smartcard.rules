@@ -1,0 +1,1 @@
+SUBSYSTEM=="usb", ATTR{idVendor}=="08e6", ATTR{idProduct}=="3438", MODE="0660", GROUP="scard"
